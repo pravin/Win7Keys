@@ -1,0 +1,30 @@
+#include <windows.h>
+#include "resource.h"
+
+IDI_APP_ICON    ICON    DISCARDABLE "icon.ico"
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK VS_FF_PRERELEASE // Which bits are to be taken
+ FILEFLAGS VS_FF_PRERELEASE // This is a pre-release version
+ FILEOS VOS__WINDOWS32 // Built for Windows 32 bit OS
+ FILETYPE VFT_APP // Type of this is Application
+ FILESUBTYPE 0x0L // 0
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904B0"
+        BEGIN
+            VALUE "CompanyName", "Pravin Paratey\0"
+            VALUE "FileDescription", "Windows 7 shortcuts for Windows XP and Vista\0"
+            VALUE "FileVersion", "0, 1, 0, 0\0"
+            VALUE "InternalName", "Win7Keys\0"
+            VALUE "LegalCopyright", "Copyright (C) 2010\0"
+            VALUE "LegalTrademarks", "http://pravin.insanitybegins.com\0"
+            VALUE "OriginalFilename", "Win7Keys.exe\0"
+            VALUE "ProductName", "Win7Keys\0"
+            VALUE "ProductVersion", "0, 1, 0, 0\0"
+        END
+    END
+END
