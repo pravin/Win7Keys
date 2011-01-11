@@ -6,9 +6,9 @@ This application enables Windows 7 shortcuts on Windows XP and Windows Vista. It
 Keys Implemented
 ----------------
 
- + '''Win + Left/Right''' - Dock active application to the left/right side
- + '''Win + Up''' - Maximize active application
- + '''Win + Down'''  - Minimize active application
+ + *Win + Left/Right* - Dock active application to the left/right side
+ + *Win + Up* - Maximize active application
+ + *Win + Down*  - Minimize active application
 
 
 Source Code
