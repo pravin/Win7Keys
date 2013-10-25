@@ -2,6 +2,8 @@ Win7Keys - Enable Windows 7 shortcuts on XP and Vista
 =====================================================
 
 This application enables Windows 7 shortcuts on Windows XP and Windows Vista. It's a tiny no-nonsense app that just works.
+
+![Example](https://raw.github.com/pravin/Win7Keys/master/img/win7keys.png)
         
 Keys Implemented
 ----------------
