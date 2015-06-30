@@ -17,8 +17,11 @@ Source Code
 -----------
 This project has been written in C using the [Code::Blocks](http://www.codeblocks.org/) IDE.
 
+Download
+--------
+Download the binary from the `bin` folder.
+
 
 Author
 -------
-You can contact the author [Pravin Paratey](http://pravin.insanitybegins.com) on the official 
-[Win7Keys website](http://pravin.insanitybegins.com/dev/win7keys-windows-7-keys-emulator-for-xp-and-vista).
+- [Pravin Paratey](http://pravin.paratey.com)
