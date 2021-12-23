@@ -57,7 +57,7 @@ int WINAPI WinMain (HINSTANCE hThisInstance, HINSTANCE hPrevInstance,
         return 1;
     }
     else {
-        hkproc = (HOOKPROC) GetProcAddress(hInstDLL, "Win7KeysHook@12");
+        hkproc = (HOOKPROC) GetProcAddress(hInstDLL, "Win7KeysHook");
         if (!hkproc) {
             MessageBox(NULL, "Unable to find proc", "Error", MB_OK);
             FreeLibrary(hInstDLL);

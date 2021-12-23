@@ -1,7 +1,5 @@
 #include <windows.h>
 
-#define WPF_ASYNCWINDOWPLACEMENT 4
-
 void DoMove(int direction)
 {
     // Get Desktop area
